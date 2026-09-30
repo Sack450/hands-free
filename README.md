@@ -1,10 +1,10 @@
-# Hands-Free 🖐️🤖
+# Hands-Free 
 
 **Hands-Free** es un sistema de control del sistema operativo mediante gestos de manos en tiempo real, impulsado por visión por computadora y Machine Learning. Permite interactuar con la computadora (control de cursor, clic, volumen, multimedia, atajos de teclado y comandos personalizados) mediante la cámara web y una interfaz web interactiva para configuración y monitoreo.
 
 ---
 
-## 🚀 Características principales
+##  Características principales
 
 - **Control del Cursor en Tiempo Real**: Movimiento fluido del puntero mapeando la posición de la mano en pantalla.
 - **Reconocimiento de Gestos**: Clasificación de gestos basados en puntos de referencia de la mano (*landmarks* de MediaPipe).
@@ -76,7 +76,7 @@ El modelo entrenado se guardará en la carpeta `models/`.
 
 ---
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 hands-free/
@@ -97,6 +97,3 @@ hands-free/
 
 ---
 
-## 📝 Licencia
-
-Este proyecto está distribuido bajo la licencia MIT.
